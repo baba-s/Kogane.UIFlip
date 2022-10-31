@@ -1,4 +1,4 @@
-# Uni UI Flip
+# Kogane UI Flip
 
 uGUI のオブジェクトを上下左右反転できるコンポーネント
 
